@@ -1,2 +1,2 @@
 def predict(valor):
-    return 10 + valor0
+    return 10 + valor
